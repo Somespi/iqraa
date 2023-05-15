@@ -7,7 +7,7 @@
     let verses = []
     export let params = {}
     $: isLoaded = false
-    fetch(`http://api.alquran.cloud/v1/surah/${params.id}/editions/ar.alafasy,en.asad`)
+    fetch(`https://api.alquran.cloud/v1/surah/${params.id}/editions/ar.alafasy,en.asad`)
     .then(response => response.json())
     .then(data => {
         
