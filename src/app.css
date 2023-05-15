@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Nabi';
+    src: url("./assets/fonts/Nabi.ttf");
+}
+
+.quranic-verse {
+    font-family: 'Nabi';
+
+}
