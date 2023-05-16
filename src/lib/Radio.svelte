@@ -8,7 +8,7 @@
 
     <div class="flex flex-col lg:flex-row items-center justify-center w-screen h-screen m">
         <div class="grid gap-4 ">
-                <div class="card max-w-md text-white bg-zinc-900 mr-5">
+                <div class="card max-w-md text-white bg-zinc-900 mx-5">
                     <figure><img src="{img}" alt="Mishary Al-Afasy reciting the Holy Quran" /></figure>
                     <div class="card-body items-center text-center">
                         <h2 class="card-title">The Holy Quran - Mishari Al-Afasi</h2>
@@ -23,8 +23,8 @@
     
             </div> 
             <br><br>
-                <div class="card max-w-md text-white bg-zinc-900">
-                    <figure><img src="{img2}" alt="Mishary Al-Afasy reciting the Holy Quran" /></figure>
+                <div class="card max-w-md text-white bg-zinc-900 mx-5">
+                    <figure><img src="{img2}" alt="Maher Al-Mueaqly reciting the Holy Quran " /></figure>
                     <div class="card-body items-center text-center">
                         <h2 class="card-title">The Holy Quran - Maher Al-Mueaqly</h2>
                         <div class="card-body">
